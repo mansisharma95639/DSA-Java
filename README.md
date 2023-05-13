@@ -1,18 +1,33 @@
-## Getting Started
+# DSA-Java
+Data Structures and Algorithm practice code using Java
+README:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Learning Data Structures and Algorithms
 
-## Folder Structure
+Welcome to my repository dedicated to learning Data Structures and Algorithms! In this repository, I'll be sharing my journey as I explore various concepts and implement algorithms in different programming languages. 
 
-The workspace contains two folders by default, where:
+## Motivation
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+I believe that a strong foundation in Data Structures and Algorithms is essential for becoming a skilled programmer. This repository serves as a personal learning space where I document my progress and share my code with others who are also interested in sharpening their skills.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Structure
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+The repository is organized into separate folders, each representing a different topic or algorithm. Inside each folder, you'll find detailed explanations, code implementations, and examples to help grasp the concepts better.
 
-## Dependency Management
+## Progress
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I'm committed to regularly updating this repository with new code as I progress in my learning journey. You can expect to find improved implementations, additional algorithms, and more comprehensive explanations over time.
+
+## Contributions
+
+While this repository is primarily for personal learning purposes, I welcome contributions and feedback from the community. If you spot any errors, have suggestions for improvement, or would like to contribute your own implementations, please feel free to open an issue or submit a pull request.
+
+## Languages
+
+I will be exploring various programming languages to implement different algorithms. Currently, I am focusing on Java and will expand to other languages in the future.
+
+## Resources
+
+I'll be relying on a variety of resources such as books, online courses, and coding challenges to deepen my understanding of Data Structures and Algorithms.
+
+Let's embark on this learning journey together and become proficient in Data Structures and Algorithms!
