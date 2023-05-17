@@ -1,5 +1,4 @@
 package Arrays;
-import java.util.*;
 public class linearSearch {
     public static int linearsearch(int n[], int key){
         for(int i=0;i<=n.length;i++){
