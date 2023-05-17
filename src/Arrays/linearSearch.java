@@ -12,7 +12,7 @@ public class linearSearch {
     }
     public static void main(String args[])
         {
-            int[] n= {2,3,7,4,9,22};
+            int[] n= {2,3,7,4,9,22,24};
             linearsearch(n,2);
         }
 }
