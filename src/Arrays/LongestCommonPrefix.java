@@ -1,4 +1,5 @@
 package Arrays;
+
 class LongestCommonPrefix {
         public static String longestCommonPrefix(String[] strs) {     
             String ans = strs[0];
